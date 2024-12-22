@@ -4,6 +4,6 @@
 
 ## [Тест-кейсы](https://drive.google.com/file/d/1-oYngP04I4gMEGRMDAxawDYpkJDPMF5B/view?usp=sharing) страниц Авторизация, Регистрация и Каталог товаров для приложения Интернет-магазин
 
-## [Отчеты о дефектах](https://docs.google.com/spreadsheets/d/181siG_L6nD3lyA7LkUr1WZN0Z0aape0i/edit?usp=sharing&ouid=103191871606694972125&rtpof=true&sd=true) страниц Авторизация, Регистрация и Каталог товаров для приложения Интернет-магазин
+## [Отчеты о дефектах](https://github.com/Sytugin/docs/blob/main/Отчеты%20о%20дефектах%20приложение%20Интернет-магазин.xlsx)страниц Авторизация, Регистрация и Каталог товаров для приложения Интернет-магазин
 
-## [Тестовый прогон](https://drive.google.com/file/d/19h5RBfR7-_c4MOnXCVPcalQIOPu3zAFA/view?usp=sharing) G9-Test run #1.
+## [Тестовый прогон](https://github.com/Sytugin/docs/blob/main/G9-Test%20run%20%231-2024_12_21.pdf) G9-Test run #1.
